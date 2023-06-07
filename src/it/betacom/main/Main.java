@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Avvio programma main");
 		System.out.println("Prova modifica");
 		System.out.println("Prova modifica da github");
+		System.out.println("Esecuzione programma");
 
 	}
 
